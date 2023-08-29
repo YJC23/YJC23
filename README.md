@@ -1,20 +1,15 @@
-### 💫 About Me:
-#😎 Aspiring tech entrepreneur, Always either building something or thinking of building something!
-#📚 Studying CS and Math @ Stanford
-#💬 Please contact me via Email or LinkedIn :)
-#🦄 Also check out my website and newsletter!
+# 💫 About Me:
+💡 Problem-solver and leader, aspiring tech entrepreneur, always building solutions to problems that pique my interest<br>
+🌏 Studying Computer Science Systems & AI @ Stanford<br>
+🤙 Please contact me via [Email](yjcsean@stanford.edu) or [LinkedIn](https://www.linkedin.com/in/youngjuchoi/) :)
 
-<!--
-**YJC23/YJC23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 A Little More About Me:
+```C++
+const YoungJu {
+  pronouns: ["he", "him"], 
+  languages: [C++, C, Python, Assembly, HTML, CSS, JavaScript, SQL, Swift], 
+  ml: [PyTorch, pandas, scikit-learn], 
+  softwares: [Git, LaTeX, Markdown, OpenAI, AWS, MongoDB, Docker, Unix, Rapid API, VS Code], 
+  interests: ["Systems", "Databases", "Natural Language Processing", "Machine Learning", "Software Engineering"], 
+  other interests: ["Basketball", "Taking walks", "Philz Coffee", "Meeting new people!"]
+}
