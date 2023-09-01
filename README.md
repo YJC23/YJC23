@@ -1,11 +1,11 @@
-# 🌱 Currently learning...
+# 💫 About Me
+- 🌏 Problem-solver and leader, aspiring tech entrepreneur, always building solutions to interesting real-world problems
+- 📚 Studying Computer Science Systems + AI Track @ Stanford
+- 🤙 Please contact me via [Email](yjcsean@stanford.edu) or [LinkedIn](https://www.linkedin.com/in/youngjuchoi/) :)
+
+### 🌱 Currently learning...
 - Full-Stack Development using NEXT.JS & MongoDB
 - Large Language Model Foundations
-
-# 💫 About Me
-🌏 Problem-solver and leader, aspiring tech entrepreneur, always building solutions to interesting real-world problems<br>
-📚 Studying Computer Science Systems + AI Track @ Stanford<br>
-🤙 Please contact me via [Email](yjcsean@stanford.edu) or [LinkedIn](https://www.linkedin.com/in/youngjuchoi/) :)
 
 # 💻 A Little More About Me:
 ```C++
