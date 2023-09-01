@@ -14,6 +14,6 @@ const YoungJu {
   languages: [C++, C, Python, Assembly, HTML, CSS, JavaScript, SQL, Swift], 
   ml: [PyTorch, pandas, scikit-learn], 
   softwares: [Git, LaTeX, Markdown, OpenAI, AWS, MongoDB, Docker, Unix, Rapid API, VS Code], 
-  interests: ["Natural Language Processing", "Machine Learning", "Systems", "Databases", "Software Engineering", "Full-Stack"], 
+  interests: ["Natural Language Processing", "Machine Learning", "Systems", "Databases", "Software Engineering"], 
   other interests: ["Basketball", "Taking walks", "Philz Coffee", "Meeting new people!"]
 }
